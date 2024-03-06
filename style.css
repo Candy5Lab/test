@@ -1,0 +1,39 @@
+h1 {
+    font-size: 32px;
+    color: #FF0000;
+    position: relative;
+}
+
+h2 {
+    color: white;
+    background-color: black;
+}
+
+.border-red-family {
+    background-color:grey;
+    border: 1px solid salmon;
+}
+
+#pink-div {
+    background-color: pink;
+}
+
+.drop-shadow {
+box-shadow: 10px 10px 30px rgba(0,0,0,0.5);
+}
+
+.container{
+    position: relative;
+    left: 25%;
+    right: 25%;
+    width: 50%;
+}
+
+.container h2{
+    font-size: 40;
+    position: fixed;
+    width: 90%;
+    height: 400px;
+    right: 0;
+    bottom: 0;
+}

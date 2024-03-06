@@ -1,0 +1,20 @@
+.border{
+    border: 1px solid salmon;
+}
+
+#top-bar{
+    position: relative;
+    height: 20px;
+}
+
+#top-bar #home-button {
+    position: absolute;
+    left:0;
+    top:0;
+}
+
+#top-bar #call-to-action {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
